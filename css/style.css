@@ -14,14 +14,18 @@ header {
     padding: 10px;
 }
 
-.colore {
+.riga1 {
     background-color: blue;
 }
 
-.riga1{
+.riga2 {
     background-color: aqua;
 }
 
 .riga3 {
     background-color: aqua;
+}
+
+.testo {
+    background-color: yellow;
 }
